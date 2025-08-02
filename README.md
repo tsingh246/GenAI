@@ -1,6 +1,6 @@
-# GenAI Tokenization and Embeddings
+# GenAI 
 
-This repository contains simple Python scripts to demonstrate tokenization and embeddings using OpenAI models.
+This repository contains simple Python scripts to practice GenAI-related concepts.
 
 ## Files
 
